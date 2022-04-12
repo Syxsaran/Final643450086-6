@@ -4,7 +4,8 @@
 classDiagram
   direction LR
   class form1{
-  login()
+  ของหวาน()
+  เครื่องดื่ม()
   logout()
   }
 ```
