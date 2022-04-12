@@ -48,6 +48,6 @@ classDiagram
   savesweet --|> sweet
   opensweet --|> sweet
   
-  sweet --|> from1
-  drink --|>from1
+  sweet --|> form1
+  drink --|>form1
 ```
