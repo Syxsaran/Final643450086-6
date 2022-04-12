@@ -43,4 +43,11 @@ classDiagram
   open file()
   }
   savedrink --|> drink
+  opendrink --|> drink
+  
+  savesweet --|> sweet
+  opensweet --|> sweet
+  
+  sweet --|> from1
+  drink --|>from1
 ```
